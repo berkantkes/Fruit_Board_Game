@@ -1,0 +1,112 @@
+{
+    "Items": [
+        {
+            "RewardType": 1,
+            "RewardCount": 9
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 35
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 16
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 52
+        },
+        {
+            "RewardType": 0,
+            "RewardCount": 0
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 13
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 86
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 45
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 36
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 22
+        },
+        {
+            "RewardType": 0,
+            "RewardCount": 0
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 74
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 45
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 51
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 36
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 8
+        },
+        {
+            "RewardType": 0,
+            "RewardCount": 0
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 7
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 93
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 63
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 78
+        },
+        {
+            "RewardType": 0,
+            "RewardCount": 0
+        },
+        {
+            "RewardType": 2,
+            "RewardCount": 19
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 28
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 62
+        },
+        {
+            "RewardType": 3,
+            "RewardCount": 2
+        },
+        {
+            "RewardType": 1,
+            "RewardCount": 78
+        }
+    ]
+}
